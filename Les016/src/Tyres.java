@@ -1,0 +1,2 @@
+public class Tyres {
+}
